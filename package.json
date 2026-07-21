@@ -1,0 +1,28 @@
+{
+  "name": "be.elab.unicodewatchmirror",
+  "version": "2026.1.18",
+  "displayName": "\ud83e\uddf0: Unicode Watch with Mirror",
+  "description": "Provide a simple Unicode Watch to communicate in game to use with mirror",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://github.com/EloiStree/2026_07_21_upm_unicode_watch_for_vr_mirror",
+  "changelogUrl": "https://github.com/EloiStree/2026_07_21_upm_unicode_watch_for_vr_mirror/tree/main",
+  "licensesUrl": "https://github.com/EloiStree/License",
+ "keywords": [
+        "Script",
+        "Tool",
+        "Productivity"
+    ],     
+ "samples": [
+    {
+      "displayName": "Demo Scene",
+      "description": "A sample scene that demonstrates the features of this package.",
+      "path": "Scene/Demo"
+    }
+  ],
+  "author": {
+    "name": "Eloi Stree",
+    "mail": "",
+    "url": "https://github.com/EloiStree/"
+  }
+}

@@ -1,0 +1,17 @@
+{
+    "name": "be.elab.unicodewatchmirror.Runtime",
+    "rootNamespace": "Eloi.UnicodeWatch",
+    "references": [
+        "Mirror",
+        "Mirror.Components"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
